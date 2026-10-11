@@ -1,0 +1,10 @@
+# Data files and local environment
+data/
+.env
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+models/*.pkl
+models/*.joblib
+reports/dashboard/*.pbix
